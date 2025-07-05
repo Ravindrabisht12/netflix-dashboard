@@ -1,2 +1,3 @@
 # netflix-dashboard
-Dashboard to give Netflix content insights
+Install dependencies: 
+```pip install -r requirements.txt```
